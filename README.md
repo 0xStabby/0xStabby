@@ -2,11 +2,13 @@
 <h3 align="center">I like to make cool stuff</h3>
 
 <span>
-    <a href="https://twitter.com/0xstabby" target="blank"><img src="https://img.shields.io/twitter/follow/0xstabby?logo=twitter&style=for-the-badge" alt="0xstabby" /></a>
-    <img src="https://komarev.com/ghpvc/?username=0xstabby&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="0xstabby" />
+  <a href="https://twitter.com/0xstabby" target="blank"><img src="https://img.shields.io/twitter/follow/0xstabby?logo=twitter&style=for-the-badge" alt="0xstabby" /></a>
+  <img src="https://komarev.com/ghpvc/?username=0xstabby&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="0xstabby" />
 </span>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xstabby&theme=monokai" alt="0xstabby" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xstabby&theme=monokai" alt="0xstabby" /></a>
+</p>
 
 
 - 🔭 I’m currently working on [LolCat_Quest](https://github.com/LolCat-Quest)
@@ -30,7 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xstabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xstabby" height="30" width="40" /></a>
-<a href="https://0xstabby.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://0xstabby.com" height="30" width="40" /></a>
+<a href="https://0xstabby.com/blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://0xstabby.com/blog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
