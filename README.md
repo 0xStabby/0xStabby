@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=0xstabby&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="0xstabby" />
 </span>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xstabby" alt="0xstabby" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xstabby&theme=monokai" alt="0xstabby" /></a> </p>
 
 
 - 🔭 I’m currently working on [LolCat_Quest](https://github.com/LolCat-Quest)
