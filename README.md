@@ -27,6 +27,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT helped me make a ChatGPT Vim plugin.](https://blog-0xstabby.vercel.app/blog/yes-chatgpt-helped-me-make-a-chatgpt-vim-plugin)
+- [Using Blender, on Linux, through an IPad](https://blog-0xstabby.vercel.app/blog/using-blender-on-linux-through-ipad)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
