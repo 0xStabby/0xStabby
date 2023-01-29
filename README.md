@@ -11,7 +11,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [LolCat_Quest](https://github.com/LolCat-Quest)
+- 🔭 I’m currently working on [LolCat Quest](https://github.com/LolCat-Quest)
 
 - 🌱 I’m currently learning **Phaser3 Game Development**
 
