@@ -9,7 +9,7 @@
 -->
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xstabby&theme=monokai" alt="0xstabby" /></a>
+  <a href="https://github.com/0xStabby"><img src="https://github-profile-trophy.vercel.app/?username=0xstabby&theme=monokai" alt="0xstabby" /></a>
 </p>
 
 
