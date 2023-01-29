@@ -35,8 +35,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xstabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xstabby" height="30" width="40" /></a>
-<a href="https://0xstabby.com/blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://0xstabby.com/blog" height="30" width="40" /></a>
+<a href="https://twitter.com/0xstabby" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xstabby" height="30" width="40" /></a>
+<a href="https://0xstabby.com/blog" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://0xstabby.com/blog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
