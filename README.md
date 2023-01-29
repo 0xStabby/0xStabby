@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I may be a dog on the internet, but I also may be a cat, who knows.... it's the internet**
 
-### Blogs posts
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 - [ChatGPT helped me make a ChatGPT Vim plugin.](https://blog-0xstabby.vercel.app/blog/yes-chatgpt-helped-me-make-a-chatgpt-vim-plugin)
 - [Using Blender, on Linux, through an IPad](https://blog-0xstabby.vercel.app/blog/using-blender-on-linux-through-ipad)
