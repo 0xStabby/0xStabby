@@ -15,20 +15,8 @@ jobs:
       - name: Full-year calendar
         uses: 0xStabby/metrics@master
         with:
-          template: terminal
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: 📙 Terminal template - Example
-        uses: 0xStabby/metrics@master
-        with:
-          template: terminal
-          filename: metrics.terminal.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, metadata
-          output_action: none
-          delay: 120
-          user: 0xStabby
-          plugins_errors_fatal: yes
