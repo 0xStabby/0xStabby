@@ -12,10 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      template: terminal
-      filename: metrics.terminal.svg
-      token: ${{ secrets.METRICS_TOKEN }}
-      base: header, metadata
       - name: Full-year calendar
         uses: 0xStabby/metrics@master
         with:
