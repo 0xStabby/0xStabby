@@ -184,5 +184,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xstabby&theme=monokai" alt="0xstabby" /></p>
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
 </picture>
