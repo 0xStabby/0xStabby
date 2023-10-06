@@ -8,7 +8,7 @@
 </span>
 -->
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/0xStabby"><img src="https://github-profile-trophy.vercel.app/?username=0xstabby&theme=monokai&title=Commits,Stars,Followers,PullRequest,Repositories" alt="0xstabby" /></a>
 </p>
 
