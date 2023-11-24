@@ -29,13 +29,11 @@
 
 <!-- ### Blogs posts: -->
 <!-- BLOG-POST-LIST:START -->
-<!--
 - [Why Test-Driven Development is important for writing secure smart contracts](https://blog-0xstabby.vercel.app/blog/why-test-driven-development-is-important-for-writing-secure-smart-contracts)
 - [New features added to chatgpt-vim](https://blog-0xstabby.vercel.app/blog/new-features-added-to-chatgpt-vim)
 - [Writing secure smart contract code with solidity](https://blog-0xstabby.vercel.app/blog/writing-secure-smart-contract-code-with-solidity)
 - [ChatGPT helped me make a ChatGPT Vim plugin.](https://blog-0xstabby.vercel.app/blog/yes-chatgpt-helped-me-make-a-chatgpt-vim-plugin)
 - [Using Blender, on Linux, through an IPad](https://blog-0xstabby.vercel.app/blog/using-blender-on-linux-through-ipad)
--->
 <!-- BLOG-POST-LIST:END -->
 
 <!--
