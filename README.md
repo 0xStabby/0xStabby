@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=00FF01&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%A6%8A+Hello%2C+I'm+0xStabby+%F0%9F%A6%8A" alt="Typing SVG" /></a></h1>
+<!--
 <h3 align="center">I like to make cool stuff</h3>
 
-<!--
 <span>
   <a href="https://twitter.com/0xstabby" target="blank"><img src="https://img.shields.io/twitter/follow/0xstabby?logo=twitter&style=for-the-badge" alt="0xstabby" /></a>
   <img src="https://komarev.com/ghpvc/?username=0xstabby&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="0xstabby" />
@@ -45,8 +45,8 @@
 <a href="https://0xstabby.com/blog" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://0xstabby.com/blog" height="30" width="40" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xstabby&theme=monokai" alt="0xstabby" /></p>
--->
 
 <picture>
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
 </picture>
+-->
